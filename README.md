@@ -3,7 +3,7 @@ civ5maps
 
 Civilization V Maps by hothgremlin
 
-I will publish my maps here. If you have any recommendations give feedback and I will improve the maps. 
+I will publish my maps here. If you have any recommendations give feedback and I will improve the maps.
 
 ### License
 All maps are released under the Creative Commons by-nc-sa License. You can use and alter those maps as long as you give appropriate credit. You are not allowed to use this map commercially (meaning: you are not allowed to sell it). Further Information can be found here: http://creativecommons.org/licenses/by-nc-sa/4.0/ 
