@@ -12,7 +12,7 @@ All maps are released under the Creative Commons by-nc-sa License. You can use a
 ### How To Play In Multiplayer
 1. Download a git client
 2. Get familiar with git
-3. Go to C:\Users\USERNAME\Documents\My Games\Sid Meier's Civilization 5\Maps 
+3. Go to %USERPROFILE%\Documents\My Games\Sid Meier's Civilization 5\Maps 
 3. Check out my repository.
 
 ### How to edit the map
